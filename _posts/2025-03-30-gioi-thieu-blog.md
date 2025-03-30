@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 ---
 layout: post
 title: "Chào mừng đến với blog của Mai!"
