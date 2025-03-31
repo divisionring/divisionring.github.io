@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Chào mừng đến với blog của Mai!"
 date: 2025-03-30
 ---
